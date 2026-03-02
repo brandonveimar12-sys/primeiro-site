@@ -12,3 +12,9 @@ h2 {
     color: red;
 }
 
+header image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border-color: red;
+}
